@@ -86,6 +86,8 @@ title: friends
             <div class="friend-item"><a href="https://taniaanandasari.github.io/" target="_blank">Tania Ananda Sari</a></div>
             <div class="friend-item"><a href="https://akbar2224.github.io/akbar2224/" target="_blank">Tm Dzaky Maulana</a></div>
             <div class="friend-item"><a href="https://wildanunhasanah.github.io/" target="_blank">Wildanun Hasanah</a></div>
+            <div class="friend-item"><a href="https://yumna1711.github.io/" target="_blank">Yumna</a></div>
+        
         
         </div>
     </div>
