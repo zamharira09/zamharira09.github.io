@@ -54,7 +54,7 @@ title: friends
             color: #007bff;
             font-weight: bold;
         }
-    </style>
+    </style
 </head>
 <body>
     <div class="container">
